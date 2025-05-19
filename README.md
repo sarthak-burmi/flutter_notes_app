@@ -2,7 +2,7 @@
 
 A feature-rich notes application built with Flutter, featuring category organization, powerful search functionality, and a beautiful Material Design interface.
 
-![Advanced Notes App](https://github.com/yourusername/flutter_notes_app/raw/main/screenshots/app_preview.png)
+![Advanced Notes App]([https://github.com/yourusername/flutter_notes_app/raw/main/screenshots/app_preview.png](https://github.com/sarthak-burmi/flutter_notes_app/blob/main/Screenshot_1747663705.png))
 
 ---
 
